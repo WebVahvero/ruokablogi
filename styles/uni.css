@@ -1,0 +1,53 @@
+/*FONT IMPORTS*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+/*END OF FONT IMPORTS*/
+
+/*COLORS*/
+:root {
+    --heafoo-bg: #10316b;
+    --main-bg: #3e3636;
+    --card-color: #0B8458;
+    --text-color: #dee1ec;
+}
+/*END OF COLORS*/
+
+/*RESET*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*END OF RESET*/
+
+/*ROOT FONT SIZE & SMOOTH SCROLL*/
+html {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+/*END OF ROOT FONT SIZE*/
+
+/*---SCROLLBAR---*/
+/* width */
+::-webkit-scrollbar {
+    width: 0.6rem;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px #000000; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: var(--card-color);
+    border-radius: 0.5rem;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #075035;
+  }
+/*---END OF SCROLLBAR---*/
