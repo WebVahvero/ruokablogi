@@ -12,14 +12,14 @@
     <footer>
         <div class="some">
             <figure>
-                <a href="#"><img class="someIcon" src="img/linkedin-in-brands.svg" alt="linkedin"></a>
+                <a href="https://www.linkedin.com/in/valtteri-kurunsaari-b40410207/"><img class="someIcon" src="img/linkedin-in-brands.svg" alt="linkedin"></a>
             </figure>
             <figure>
                 <a href="https://github.com/WebVahvero"><img class="someIcon" src="img/github-brands.svg" alt="github"></a>
             </figure>
         </div>
         <div class="legal">
-            <h5>Sivun tehnyt <span><a href="#">Valtteri</a></span></h5>
+            <h5>Sivun tehnyt <span><a href="https://webvahvero.github.io/Portfolio/">Valtteri</a></span></h5>
             <h6><a href="#">Rekisteri</a></h6>
         </div>
     </footer>
